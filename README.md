@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deborah.
-- 👀 I’m interested in Data Science, Machine Learning
-- 🌱 I’m currently learning Deep Learning with Pytorch
-- 📫 I can reached at dsj9195@nyu.edu
+- 👀 I’m interested in Software Engineering, Data Science, and Machine Learning. I am an MS CS student at NYU,graduating in May 2023. I have worked as a Software Engineer at Verizon. 
+- 🌱 I love using PyTorch for my deep learning rojects and have started PyTorch NYC community in collaboratin with Meta and The Linux Foundation.
+- 📫 I can be reached at dsj9195@nyu.edu
 
 <!---
 isthatdebbiej/isthatdebbiej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
